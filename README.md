@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### About Me:
 - BSc. Computer Science at [Universidade Federal do Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/site/), [Instituto de Informática](https://www.inf.ufrgs.br/site/).
-- Android Developer at [Projeto Netmetric](https://www.inf.ufrgs.br/prav/netmetric.htm).
 - Porto Alegre, Brasil 🇧🇷
 
 
